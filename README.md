@@ -1,0 +1,1 @@
+Karin Challenge #6 in Street Fighter V on AutoHotKey. Launch by pressing "q", try different ranges to see which one works.
